@@ -272,7 +272,7 @@ var controller = {
 		}
 		//Conseguir el nombre y la extension del archivo
 		var file_path = req.files.file0.path
-		var file_split = file_path.split("\\");
+		var file_split = file_path.split("/");
 
 		//EN LINUS O MAC: split('/');
 
@@ -280,7 +280,7 @@ var controller = {
 		var file_name = file_split[2];
 
 		//Extension del fichero
-		var extension_split = file_name.split('\.');
+		var extension_split = file_name.split('.');
 		var file_ext = extension_split[1];
 
 		//Commprobamos la extension, es decir que puedan ser solo imagenes, y si la extension no es valida borrar el fichero
@@ -344,12 +344,12 @@ var controller = {
 		var retorno;
 
 		files.forEach(imagen =>{
-			let imagen_split = imagen.path.split("\\");
+			let imagen_split = imagen.path.split("/");
 			let imagen_name = imagen_split[2];
-			let name_split = imagen_name.split('\.');
+			let name_split = imagen_name.split('.');
 			let img_ext = name_split[1];
 			if (img_ext != 'png' && img_ext != 'jpg' && img_ext != 'jpeg'){
-				fs.unlink(file_path, (err)=>{
+				fs.unlink(imagen.path, (err)=>{
 					if (err){
 						retorno = false;
 					}
