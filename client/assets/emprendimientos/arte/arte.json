@@ -1,0 +1,79 @@
+   [
+
+{
+ "id":1,
+ "name":"3ddosdefrente",
+ "logo": "../../../../assets/emprendimientos/arte/3ddosdefrente/3ddosdefrente.jpg",
+ "texto": "3DDosDeFrente es un emprendimiento familiar de padre e hija que resurgió en el medio de la convivencia en cuarentena. Nos dedicamos a diseños en impresión 3D, grabado láser en madera, acrílico, vidrio o metal.Tratamos todos los días de mejorar e innovar con nuestros diseños. Pasá por nuestra página para conocer más @3ddosdefrente",
+ "ig": "https://www.instagram.com/3ddosdefrente/",
+ "cel": "2364-554770",
+ "img-one":"../../../../assets/emprendimientos/arte/3ddosdefrente/1.jpg",
+ "img-two":"../../../../assets/emprendimientos/arte/3ddosdefrente/2.jpg",
+ "img-three":"../../../../assets/emprendimientos/arte/3ddosdefrente/3.jpg",
+ "img-four":"../../../../assets/emprendimientos/arte/3ddosdefrente/4.jpg"
+},
+
+{
+"id":2,
+ "name":"adara_crfts",
+ "logo": "../../../../assets/emprendimientos/arte/adara_crfts/adara_crfts.jpg",
+ "texto": "En adara hacemos: ✨Mates (personalizados o diseños propios de la pagina) ✨Cajones y cajitas en decoupage o pintado a mano Colgantes para decorar rincones de tu casa y darles un toque unico y especial ✨Pintamos cuadernos, cuadros y articulos personalizados, lo que vos quieras darnos! Podes hacer tu consulta al 02352-508693 Tu consulta no molesta 💌",
+ "ig": "https://www.instagram.com/adara_crfts/",
+ "cel": "2352-508693"
+},
+
+{
+"id":3,
+"name":"arte_eunoia",
+"logo":"../../../../assets/emprendimientos/arte/arte_eunoia/arte_eunoia.jpg",
+"texto":"¡Hola a todos soy Francina! Siempre me gustó dibujar y pintar. En esta cuarentena agotadora, tuve que buscar la manera de hacer catarsis, por eso, les traigo esta página: iré subiendo los cuadritos que hice y estoy haciendo.",
+"ig":"https://www.instagram.com/arte_eunoia/",
+"cel":"2352551855"
+},
+
+{
+"id":4,
+"name":"chou.bags",
+"logo":"../../../../assets/emprendimientos/arte/chou.bags/chou.bags.jpg",
+"texto":"Chou se dedica a fabricar desde cero bolsas de lienzo para usar como alternativa a las de plástico. Queremos cuidar al ambiente con simples cosas. Tenemos bolsas de 45x45 cm con un coste de $350 y algunas más pequeñas de 15x20 de $100.",
+"ig":"https://www.instagram.com/chou.bags/",
+"cel":"2352487522"
+},
+
+{
+"id":5,
+"name":"conquistarte_artetallado",
+"logo":"../../../../assets/emprendimientos/arte/conquistarte_artetallado/conquistarte_artetallado.jpg",
+"texto":"",
+"ig":"https://www.instagram.com/conquistarte_artetallado/",
+"cel":"2352-417596"
+},
+
+{
+"id":6,
+"name":"enchuladas.ch",
+"logo":"../../../../assets/emprendimientos/arte/enchuladas.ch/enchuladas.ch.jpg",
+"texto":"¡ hola ! somos Renata, Morena y Ana y decidimos comenzar este mini emprendimiento con la idea de realizar cajitas expansivas llenas de dulces y mucho amor Aceptamos ideas y consejos para personalizar las cajitas y realizar un regalito a esa persona especial 🤍",
+"ig":"https://www.instagram.com/enchuladas.ch/",
+"cel":"2352-441569"
+},
+
+{
+"id":7,
+"name":"libroschacabuco",
+"logo":"../../../../assets/emprendimientos/arte/libroschacabuco/libroschacabuco.jpg",
+"texto":"Libros Chacabuco es un emprendimiento de libros que nació espontáneamente en medio de la pandemia. Vendemos libros nuevos y usados en la ciudad. Nos interesa fomentar la lectura y crear redes literarias que nos permitan habitar espacios que nutran. Nos pueden encontrar en Instagram: @libroschacabuco, facebook: Libros Chacabuco o por WhatsApp: 2352 522008.",
+"ig":"https://www.instagram.com/libroschacabuco/",
+"cel":"2352-522008"
+},
+
+{
+"id":8,
+"name":"srta.intensa",
+"logo":"../../../../assets/emprendimientos/arte/srta.intensa/srta.intensa.jpg",
+"texto":"Hola! srta.intensa es un emprendimiento artístico dónde se realizan ilustraciones digitales, stickers, póster, cuadernos y libretas todo personalizados para regalar o regalarse a uno mismo arte.",
+"ig":"https://www.instagram.com/srta.intensa/",
+"cel":"2364-304813"
+}
+
+]
