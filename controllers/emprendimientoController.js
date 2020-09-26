@@ -160,7 +160,11 @@ var controller = {
 		var emprendimientoId = req.params.id;
 		var params = req.body;
 		var imgToDelete = params.imgToDelete;
-		console.log(imgToDelete)
+
+		if (imgToDelete){
+			params.imgFolder = ['null'];
+		}
+		
 		//validar datos
 		try{
 			  var validate_section = !validator.isEmpty(params.section);
