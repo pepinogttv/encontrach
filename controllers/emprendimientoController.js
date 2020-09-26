@@ -92,7 +92,7 @@ var controller = {
 		}else{
 			return res.status(500).send({
 				status:'error',
-				message:'Los datos no son validos!'
+				message:'Los datos no son validoss!'
 			});
 		}
 	},
