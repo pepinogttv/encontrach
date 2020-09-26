@@ -7,13 +7,14 @@ var Emprendimiento = require('../models/emprendimientoModel');
 const nodemailer = require('nodemailer');
 
 //objeto literal con los metodos que ejecutamos en las rutas emprendimientosRoutes.js
+//cambio
 var controller = {
 
 	datosPrueba: (req, res)=>{
 
 	return res.status(200).send({
 		name: 'simon',
-		author: 'pepinogalactico',
+		author: 'pepinogalacticoo',
 		url:'pepinogtvv'
 	  });
 	},
