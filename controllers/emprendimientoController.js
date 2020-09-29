@@ -454,8 +454,10 @@ var controller = {
 
 
 		var transporter = nodemailer.createTransport({
-			port: 3900,
+			host: 'smtp.gmail.com',
+			port: 587,
 			service: 'gmail',
+			secure: false,
 			auth:{
 				user: 'encontrachacabuco@gmail.com',
 				pass: 'encontrala180'
